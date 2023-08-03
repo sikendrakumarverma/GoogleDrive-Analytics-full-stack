@@ -6,7 +6,7 @@
        },
 
        {
-         "src": "./client/build",    
+         "src": "./frontend/build",    
          "use": "@vercel/static"
        }
    ],
